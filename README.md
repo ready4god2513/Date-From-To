@@ -14,6 +14,9 @@ Take note of the 23-26 date which is what we are looking for. So dates don't end
 ## Examples
 
 **Input** 01-21-1986, 01-21-1986  --- **Output** January 21, 1986
+
 **Input** 01-21-1986, 01-24-1986  --- **Output** January 21 - 24, 1986
+
 **Input** 01-21-1986, 02-21-1986  --- **Output** January 21 - February 21, 1986
+
 **Input** 01-21-1986, 01-21-1987  --- **Output** January 21, 1986 - 1987
